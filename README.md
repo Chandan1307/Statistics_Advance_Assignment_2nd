@@ -12,3 +12,7 @@ Estimate,  Hypothesis Testing Mechanism, P Value, Z-Test, Student T Distribution
 ![image](https://user-images.githubusercontent.com/107146517/230710022-81a0c83c-767e-450d-b830-5890d26e8932.png)
 ![image](https://user-images.githubusercontent.com/107146517/230710040-c99ee457-b508-4724-bbc9-abaef5f1374e.png)
 ![image](https://user-images.githubusercontent.com/107146517/230710047-85e32969-a8b5-4c8e-be1d-3ac087906f57.png)
+![image](https://user-images.githubusercontent.com/107146517/230905113-a9a45bb7-57a9-4dd3-a53a-93dcdc323c1c.png)
+![image](https://user-images.githubusercontent.com/107146517/230905163-054dc24c-b956-4f53-858d-7d1465b5d7bc.png)
+![image](https://user-images.githubusercontent.com/107146517/230905190-fd52a5eb-9f70-426f-9aad-4eb58982bbba.png)
+![image](https://user-images.githubusercontent.com/107146517/230905223-c04879bb-7846-47e4-9bdd-a76ab8cc8130.png)
