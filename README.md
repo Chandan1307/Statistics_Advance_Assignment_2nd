@@ -1,5 +1,5 @@
 # Statistics_Advance_Assignment_2nd
-Estimate,  Hypothesis Testing Mechanism, P Value, Z-Test, Student T Distribution, T-Stats &amp; T-Test, Type 1 and Type 2 Error,  Confidence Interval Margin of Error, Bayes Theorem etc.
+Estimate,  Hypothesis Testing Mechanism, P Value, Z-Test, Student T Distribution, T-Stats &amp; T-Test, Type 1 and Type 2 Error,  Confidence Interval Margin of Error, Bayes Theorem & Chi and Chi Square For Goodness of Fit etc.
 ![image](https://user-images.githubusercontent.com/107146517/230709864-7f0d4bf1-ae84-4408-b06b-d5a38ee3fa46.png)
 ![image](https://user-images.githubusercontent.com/107146517/230709887-36f49538-abae-4fd9-8116-38c96d4e19a9.png)
 ![image](https://user-images.githubusercontent.com/107146517/230709916-32f17391-a75d-4db7-9aac-cb6432e40e95.png)
